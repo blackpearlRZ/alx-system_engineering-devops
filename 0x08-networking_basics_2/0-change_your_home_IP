@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# A script that sets 127.0.0.2 to localhost and facebook.com to 8.8.8.8
+printf "127.0.0.2 localhost\n8.8.8.8 facebook.com\n" > tmp_hosts
+cp -f tmp_hosts /etc/hosts
