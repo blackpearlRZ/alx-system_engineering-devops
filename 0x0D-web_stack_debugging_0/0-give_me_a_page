@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# fixxin connection on lh port 80
+
+echo "ServerName localhost" >> /etc/apache2.conf
+service apache2 start
