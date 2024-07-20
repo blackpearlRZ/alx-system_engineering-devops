@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#third murder of to infinity and beyond
+pkill -f 4-to_infinity_and_beyond
