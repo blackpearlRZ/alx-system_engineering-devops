@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# only shows runnin bash prosses
+# shellcheck disable=SC2009
+ps -aux | grep bash

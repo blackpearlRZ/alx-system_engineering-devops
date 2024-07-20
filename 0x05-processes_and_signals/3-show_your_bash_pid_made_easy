@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# prints pid of prosses with bash in them
+pgrep -l bash
