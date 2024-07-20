@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# ssadi2ni law ba3raf a2olak
+trap 'echo "I am invincible!!!"' SIGTERM
+while :
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
