@@ -1,0 +1,5 @@
+Host web1
+ User ubuntu
+ Hostname 54.196.38.185
+ PubkeyAuthentication yes
+ IdentityFile ~/.ssh/school
