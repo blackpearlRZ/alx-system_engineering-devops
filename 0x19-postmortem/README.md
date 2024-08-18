@@ -35,5 +35,3 @@ Resolution: The issue was resolved by rolling back the Stripe configuration to t
 3.Enhanced Monitoring
 
 4.Documentation and Training
-
-4.Documentation and Training
